@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fgs8CfrTKS0=",
+  "success": true,
+  "projectFilePath": "/Users/sinenhlanhlahlongwane/Task_Manager_Backend/Task_Manager_Backend/TaskManager.Api/TaskManager.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/swashbuckle.aspnetcore/10.2.3/swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "/Users/sinenhlanhlahlongwane/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
